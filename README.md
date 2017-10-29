@@ -2,7 +2,7 @@
 
 This project intends to be an example of a simple 2D platformer game.
 
-###Development Plan:
+### Development Plan:
 1. Create UI
    - Start menu
    - OnDeath menu
